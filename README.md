@@ -1,2 +1,2 @@
 # Venta_automoviles
-Factores influyen al momento de vender un automóvil.
+Factores que influyen al momento de vender un automóvil.
